@@ -1,0 +1,7 @@
+{
+    "userToGetMessagesFrom": [],
+    "DISCORD_WEBHOOK": "",
+    "SLACK_BOT_TOKEN": "",
+    "SLACK_SIGNING_SECRET": "",
+    "SLACK_APP_TOKEN": ""
+}

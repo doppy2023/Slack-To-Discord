@@ -1,0 +1,3 @@
+discord_webhook
+slack_bolt
+requests

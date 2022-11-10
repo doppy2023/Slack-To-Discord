@@ -40,6 +40,7 @@ This is a simple bot that will relay messages from a Slack channel to a Discord 
 
 Example:
 
+```
 {
     "userToGetMessagesFrom": [
 
@@ -47,6 +48,7 @@ Example:
         "USERID2GOESHERE
     ]
 }
+```
 
 - The last element of the array MUST NOT contain a comma. Only add a comma if you're adding new elements.
 
